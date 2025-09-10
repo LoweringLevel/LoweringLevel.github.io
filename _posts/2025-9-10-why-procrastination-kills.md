@@ -14,7 +14,7 @@ The world of software is dictated by continuous, rapid, even excessive evolution
 
 Sometimes in projects, the people who wrote the code are not all engineers or expert computer scientists, so they don't have sufficient IT background. It's up to those with more expertise to remedy the situation of the frustrated, burnt-out fifty-year-old who writes code like a fifteen-year-old.
 
-<u>*I've seen things you people wouldn't believe.*</u> [Blader runner's iconic phrase]
+<u>I've seen things you people wouldn't believe.</u> [Blader runner's iconic phrase]
 
 The ability to write good code is not dictated by skill in the language itself, let alone by qualifications acquired, it's all about the skills developed over time.
 Using logic to discern good practices from bad ones is essential for writing clean, structured and efficient code.
@@ -36,4 +36,4 @@ Books, magazines, and YouTube videos keep your mind constantly active. You may n
 
 Just because software works does not mean it is reliable, or even well built, which is why it is necessary to write clean code from the outset.
 
-<u>**Errors accumulate, you won't have time to fix them, it's up to you, you can't delegate.**</u>
+**Errors accumulate, you won't have time to fix them, it's up to you, you can't delegate.**
