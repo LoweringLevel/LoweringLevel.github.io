@@ -14,7 +14,7 @@ The world of software is dictated by continuous, rapid, even excessive evolution
 
 Sometimes in projects, the people who wrote the code are not all engineers or expert computer scientists, so they don't have sufficient IT background. It's up to those with more expertise to remedy the situation of the frustrated, burnt-out fifty-year-old who writes code like a fifteen-year-old.
 
-**I've seen things you people wouldn't believe.** [Blader runner's iconic phrase]
+<ins>I've seen things you people wouldn't believe.</ins> [Blader runner's iconic phrase]
 
 The ability to write good code is not dictated by skill in the language itself, let alone by qualifications acquired, it's all about the skills developed over time.
 Using logic to discern good practices from bad ones is essential for writing clean, structured and efficient code.
@@ -27,7 +27,7 @@ It is not strictly necessary to build complex data structures or use trendy tech
 
 These last few sentences are entirely based on real-life experience in the workplace. My colleagues have always worked poorly, and mistakes have accumulated over the years, turning into decades.
 
-**Not only was there no desire to resolve the issue, there was not even any desire to learn how to resolve it.**
+<ins>Not only was there no desire to resolve the issue, there was not even any desire to learn how to resolve it.</ins>
 
 ## Why me? I didn't study to do better than this. And we have always done it this way in our company.
 
