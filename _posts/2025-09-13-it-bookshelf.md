@@ -6,7 +6,9 @@
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="./images/book-cover.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}//images/book-cover.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+
+ <!--   <img src="{{site.url}}/images/equation-1.gif" style="display: block; margin: auto;" /> -->
   </div>
 
   <!-- Book Info -->
