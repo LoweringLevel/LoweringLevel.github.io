@@ -1,7 +1,7 @@
 
-# All the IT stuff I've read
+# All the IT books I've read
 
-Not in order, not all stuff is good written or suggested, some are for fun.
+Not in order, not all stuff is good written or recommended, some books were read for fun. Constantly updating.
 
 
 <!------------------------------------------------------------------------------>
@@ -208,7 +208,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
   <!-- Book Info -->
   <div style="flex: 1;">
-    <h2>CMath for Security: From Graphs and Geometry to Spatial Analysis</h2>
+    <h2>Math for Security: From Graphs and Geometry to Spatial Analysis</h2>
     <p><strong>✍️ Author:</strong>Daniel Reilly</p>
     <p><strong>🏷️ Genre:</strong>Technology, Mathematics, Science, Programming</p>
 
