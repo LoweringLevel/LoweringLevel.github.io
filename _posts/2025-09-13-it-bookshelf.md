@@ -203,7 +203,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/books/61907887" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/61907887.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
