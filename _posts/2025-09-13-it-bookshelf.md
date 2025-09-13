@@ -1,7 +1,7 @@
 
 # All the IT stuff I've read
 
-Not in order, not all stuff is good written or suggested, some are for.
+Not in order, not all stuff is good written or suggested, some are for fun.
 
 
 <!------------------------------------------------------------------------------>
@@ -118,7 +118,7 @@ Not in order, not all stuff is good written or suggested, some are for.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/black_hat_rust_cover.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/black_hat_rust_cover.png" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
