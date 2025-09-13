@@ -9,7 +9,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/199455828.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/199455828.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -30,7 +30,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/59018209.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/59018209.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -52,7 +52,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/44144493.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/44144493.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
 
 
   </div>
@@ -75,7 +75,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/61401602.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/61401602.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -97,7 +97,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/60509158.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/60509158.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -118,7 +118,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/black_hat_rust_cover.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/black_hat_rust_cover.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -139,7 +139,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/clean_arch.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/clean_arch.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -160,7 +160,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/6919462.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/6919462.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -181,7 +181,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/clean_code.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/clean_code.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
@@ -203,7 +203,7 @@ Not in order, not all stuff is good written or suggested, some are for fun.
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/61907887" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/61907887" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
