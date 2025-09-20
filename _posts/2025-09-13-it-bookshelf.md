@@ -224,7 +224,7 @@ Not in order, not all stuff is good written or recommended, some books were read
 
 <!-- Book Cover -->
   <div style="flex: 0 0 180px;">
-    <img src="{{site.url}}/images/books/cysec.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+    <img src="{{site.url}}/images/books/52018552.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
 
   <!-- Book Info -->
