@@ -218,3 +218,24 @@ Not in order, not all stuff is good written or recommended, some books were read
   </div>
 
 </div>
+
+<!------------------------------------------------------------------------------>
+<div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-top: 25px; ">
+
+<!-- Book Cover -->
+  <div style="flex: 0 0 180px;">
+    <img src="{{site.url}}/images/books/cysec.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+  </div>
+
+  <!-- Book Info -->
+  <div style="flex: 1;">
+    <h2>Cyber Security: Comprehensive Beginners Guide to Learn the Basics and Effective Methods of Cyber Security</h2>
+    <p><strong>✍️ Author:</strong>Brian Walker</p>
+    <p><strong>🏷️ Genre:</strong>Cyber security</p>
+
+   
+    
+   
+  </div>
+
+</div>
