@@ -260,3 +260,24 @@ Not in order, not all stuff is good written or recommended, some books were read
   </div>
 
 </div>
+
+<!------------------------------------------------------------------------------>
+<div style="display: flex; align-items: flex-start; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-top: 25px; ">
+
+<!-- Book Cover -->
+   <div style="flex: 0 0 120px;">
+    <img src="{{site.url}}/images/books/230337126.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+  </div>
+
+  <!-- Book Info -->
+  <div style="flex: 1;">
+    <h3>The Rust Programming Language, 3rd Edition</h3>
+    <p><strong>Author:</strong>Steve Klabnik, Chris Krycho</p>
+    <p><strong>Genre:</strong>Programming</p>
+
+   
+    
+   
+  </div>
+
+</div>
