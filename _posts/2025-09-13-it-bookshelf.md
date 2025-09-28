@@ -23,6 +23,21 @@ Not in order, not all stuff is good written or recommended, some books were read
 <div style="display: flex; align-items: flex-start; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-top: 25px; ">
 <!-- Book Cover -->
    <div style="flex: 0 0 120px;">
+    <img src="{{site.url}}/images/books/59893709.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
+  </div>
+  <!-- Book Info -->
+  <div style="flex: 1;">
+    <h3>Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3</h3>
+    <p><strong>Author:</strong>Maxwell Flitton</p>
+
+     
+ </div>
+</div>
+
+<!------------------------------------------------------------------------------>
+<div style="display: flex; align-items: flex-start; gap: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 12px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); margin-top: 25px; ">
+<!-- Book Cover -->
+   <div style="flex: 0 0 120px;">
     <img src="{{site.url}}/images/books/230337126.jpg" alt="Book Cover" style="width: 100%; border-radius: 8px;"/>
   </div>
   <!-- Book Info -->
